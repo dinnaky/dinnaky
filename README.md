@@ -1,14 +1,17 @@
- ## Sobre mim:
- ### Informações:
+ # Informações:
+ 
+ - Olá, sejá bem-vindo ao meu portifólio. 
+ - Gosto de programar, faço apenas por diversão ainda.
+ - Me interessei por programação por conta do jogo Minecreft, onde eu ultilizava a linguagem Java. 
+ - Pretendo aprender cada vez mais.
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinnaky&show_icons=true&theme=radical)
 
-- :+1: Oi, meu nome é Arthur.
-- :+1: Análise e Desenvolvimento de Sistemas
-
-### Linguagens:
+##### Linguagens:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-### Contatos:
+##### Contatos:
 
 <div>
 <a href="https://instagram.com/oarthurvitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
