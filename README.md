@@ -2,7 +2,7 @@
  
  - Olá, sejá bem-vindo ao meu portifólio. 
  - Gosto de programar, faço apenas por diversão ainda.
- - Me interessei por programação por conta do jogo Minecreft, onde eu ultilizava a linguagem Java. 
+ - Me interessei por programação por conta do jogo Minecraft, onde eu ultilizava a linguagem Java. 
  - Pretendo aprender cada vez mais.
  
  
