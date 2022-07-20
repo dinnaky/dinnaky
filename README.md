@@ -4,8 +4,6 @@
 - :+1: Oi, meu nome é Arthur.
 - :+1: Análise e Desenvolvimento de Sistemas
 
-![Snake animation](https://github.com/dinnaky/snk.git)
-
 ### Linguagens:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
