@@ -4,7 +4,7 @@
 - :+1: Oi, meu nome é Arthur.
 - :+1: Análise e Desenvolvimento de Sistemas
 
-![Snake animation](https://github.com/dinnaky/dinnaky/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dinnaky/snk.git)
 
 ### Linguagens:
 
