@@ -5,7 +5,11 @@
  - Me interessei por programação por conta do jogo Minecreft, onde eu ultilizava a linguagem Java. 
  - Pretendo aprender cada vez mais.
  
+ 
+ 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinnaky&show_icons=true&theme=radical)
+
+
 
 ##### Linguagens:
 
