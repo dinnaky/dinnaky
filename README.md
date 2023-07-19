@@ -1,14 +1,12 @@
- # Informações:
- 
- - Olá, sejá bem-vindo ao meu portifólio. 
- - Gosto de programar, faço apenas por diversão ainda.
- - Me interessei por programação por conta do jogo Minecraft, onde eu ultilizava a linguagem Java. 
- - Pretendo aprender cada vez mais.
- 
- 
+ <h1 align-itens="center"><bold>💠 Seja bem-vindo! 💠</bold></h1>
+
+ ## INFORMAÇÕES:
+
+ <p> Olá! Me chamo Arthur Vitor, sou um estudante da programação e apaixonado por aprender novas tecnologias.</p>
+
+ # Habilidades:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinnaky&show_icons=true&theme=radical)
-
 
 ##### Contatos:
 
