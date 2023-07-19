@@ -1,8 +1,14 @@
- <h1 align="center"><bold>💠 Seja bem-vindo! 💠</bold></h1>
+ <h1>INFORMAÇÕES:</h1>
 
- <p align="center"> Olá! Me chamo Arthur Vitor, sou um estudante da programação e apaixonado por aprender novas tecnologias.</p>
+## Olá seja bem-vindo!
 
-#####Algumas habilidades: 
+- Sou um entusiasta da programação e um desenvolvedor apaixonado em aprender novas linguagens e tecnologias. Ultilizo o GitHub para compartilhar meus trabalhos e para colaborar com outros membros da comunidade. Pretendo adiquirir conhecimento e crescer profissionalmente na área da programação.
+
+## Estudando...
+
+- 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
+
+##### 🚀 Algumas habilidades: 
 
 - HTML & CSS
 - Java Script
