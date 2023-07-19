@@ -1,4 +1,4 @@
-#INFORMAÇÕES
+<h3>INFORMAÇÕES:</h3>
 
 ##### Olá seja bem-vindo!
 
