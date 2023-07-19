@@ -2,13 +2,13 @@
 
  <p align="center"> Olá! Me chamo Arthur Vitor, sou um estudante da programação e apaixonado por aprender novas tecnologias.</p>
 
-####Algumas habilidades: 
+#####Algumas habilidades: 
 
 - HTML & CSS
 - Java Script
 - C#
 
-##### Contatos:
+## Contatos:
 
 <div>
 <a href="https://instagram.com/oarthurvitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
