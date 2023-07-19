@@ -1,8 +1,6 @@
  <h1 align="center"><bold>💠 Seja bem-vindo! 💠</bold></h1>
 
  <p align="center"> Olá! Me chamo Arthur Vitor, sou um estudante da programação e apaixonado por aprender novas tecnologias.</p>
-
- # Habilidades:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinnaky&show_icons=true&theme=radical)
 
