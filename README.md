@@ -1,20 +1,20 @@
- <h1>INFORMAÇÕES:</h1>
+##INFORMAÇÕES
 
-## Olá seja bem-vindo!
+##### Olá seja bem-vindo!
 
 - Sou um entusiasta da programação e um desenvolvedor apaixonado em aprender novas linguagens e tecnologias. Ultilizo o GitHub para compartilhar meus trabalhos e para colaborar com outros membros da comunidade. Pretendo adiquirir conhecimento e crescer profissionalmente na área da programação.
 
-## Estudando...
+##### Estudando...
 
 - 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
 
-##### 🚀 Algumas habilidades: 
+###### 🚀 Algumas habilidades: 
 
 - HTML & CSS
 - Java Script
 - C#
 
-## Contatos:
+##### Contatos:
 
 <div>
 <a href="https://instagram.com/oarthurvitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
