@@ -1,8 +1,6 @@
- <h1 align-itens="center"><bold>💠 Seja bem-vindo! 💠</bold></h1>
+ <h1 align="center"><bold>💠 Seja bem-vindo! 💠</bold></h1>
 
- ## INFORMAÇÕES:
-
- <p> Olá! Me chamo Arthur Vitor, sou um estudante da programação e apaixonado por aprender novas tecnologias.</p>
+ <p align="center"> Olá! Me chamo Arthur Vitor, sou um estudante da programação e apaixonado por aprender novas tecnologias.</p>
 
  # Habilidades:
  
