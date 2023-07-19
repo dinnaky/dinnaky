@@ -1,4 +1,4 @@
-##INFORMAÇÕES
+#INFORMAÇÕES
 
 ##### Olá seja bem-vindo!
 
