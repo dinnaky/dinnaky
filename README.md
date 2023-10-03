@@ -8,9 +8,9 @@
 
 - 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
 
-###### 🚀 Algumas habilidades: 
+###### 🚀 Linguagens: 
 
-- Linguagens: JavaScript, PHP, C#
+ - JavaScript, PHP, C#
 
 ##### Contatos:
 
