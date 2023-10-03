@@ -10,10 +10,8 @@
 
 ###### 🚀 Algumas habilidades: 
 
-- HTML & CSS
-- Java Script
-- C#
-- 
+- Linguagens: JavaScript, PHP, C#
+
 ##### Contatos:
 
 <div>
