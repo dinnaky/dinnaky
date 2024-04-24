@@ -10,7 +10,7 @@
 
 ##### Linguagens: 
 
- - JavaScript, PHP, C#
+ - Java, JavaScript, PHP, C#
 
 ##### Contatos:
 
