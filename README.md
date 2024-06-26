@@ -8,9 +8,9 @@
 
 - 💻 Análise e Desenvolvimento de Sistemas na Escola Técnica Paranense, 2024
 
-##### Linguagens: 
+##### Linguagens e Tecnologias: 
 
- - Java, JavaScript, PHP, C#
+ - HTML, CSS, Java, JavaScript, PHP, C#
 
 ##### Contatos:
 
